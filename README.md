@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Ahmed Basioni EL-Khateeb
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF9900&center=true&vCenter=true&width=600&lines=Full-Stack+.NET+Developer;Building+Efficient+Solutions;Passionate+About+Clean+Code;Always+Learning+New+Tech" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=#00BEFF&center=true&vCenter=true&width=600&lines=Full-Stack+.NET+Developer;Building+Efficient+Solutions;Passionate+About+Clean+Code;Always+Learning+New+Tech" alt="Typing SVG" />
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace"  width="40%"/><br>
 
