@@ -1,11 +1,12 @@
 <div align="center" width="50">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Developers" width="60%"/> <br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace"  width="40%"/><br>
-
 # 👋 Hi, I'm Ahmed Basioni EL-Khateeb
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF9900&center=true&vCenter=true&width=600&lines=Full-Stack+.NET+Developer;Building+Efficient+Solutions;Passionate+About+Clean+Code;Always+Learning+New+Tech" alt="Typing SVG" />
+
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace"  width="40%"/><br>
+
+
 
 ![Totals Hits](https://komarev.com/ghpvc/?username=ahmedbasioni007&style=flat&color=orange&label=PROFILE+VIEWS)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahmed%20Basioni-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ahmed-basioni/)
