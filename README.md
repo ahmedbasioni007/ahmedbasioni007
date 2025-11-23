@@ -11,6 +11,7 @@
 ![Totals Hits](https://komarev.com/ghpvc/?username=ahmedbasioni007&style=flat&color=orange&label=PROFILE+VIEWS)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahmed%20Basioni-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ahmed-basioni/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-orange?style=flat&logo=google-chrome)](https://ahmedbasioni007.github.io/Portofolio/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Contact-25D366?style=flat&logo=whatsapp)](https://wa.me/201066408193)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail)](mailto:ahmedbasuony22322@gmail.com) <br>
 </div>
 
