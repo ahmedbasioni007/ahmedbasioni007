@@ -75,7 +75,7 @@ Full-featured e-commerce platform with **AI-powered recommendations**, **Google 
 
 **Tech Stack:** `ASP.NET MVC` `Entity Framework` `Identity` `OAuth 2.0` `Twilio SMS` `SignalR` `AI Integration` `jQuery AJAX`
 
-**Links:** 
+**Links : &nbsp; &nbsp; &nbsp;** 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-00AAFB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ahmedbasioni.runasp.net/)
 [![Source Code](https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahmedbasioni007/Amazon-clone)
 
@@ -86,7 +86,7 @@ Responsive e-commerce platform with **multi-role system** (Customer/Seller/Admin
 
 **Tech Stack:** `HTML5` `CSS3` `JavaScript` `Bootstrap` `Responsive Design`
 
-**Links:** 
+**Links : &nbsp; &nbsp; &nbsp; ** 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-00AAFB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://yoamix.vercel.app/)
 [![Source Code](https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahmedbasioni007/Yaomix-E-Commerce)
 
@@ -97,7 +97,7 @@ Secure online examination platform with **JWT authentication**, dynamic exam cre
 
 **Tech Stack:** `ASP.NET Web API` `Angular` `Entity Framework Core` `SQL Server` `JWT Authentication`
 
-**Links:** 
+**Links : &nbsp; &nbsp; &nbsp;** 
 [![Source Code](https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahmedbasioni007/exam-system-Angular-APi-)
 
 ---
@@ -107,7 +107,7 @@ Comprehensive library management with complete CRUD operations, book reservation
 
 **Tech Stack:** `ASP.NET Core MVC` `Entity Framework Core` `SQL Server` `Role-Based Access Control`
 
-**Links:** 
+**Links : &nbsp; &nbsp; &nbsp;** 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-00AAFB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://basioni008.runasp.net/)
 [![Source Code](https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahmedbasioni007/LibraryPro)
 
