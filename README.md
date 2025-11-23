@@ -57,13 +57,15 @@
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
 
 <hr></hr>
- <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="15%" /><br>
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I'm specialized in **Full-Stack .NET Development**. <br>
-- 💼 &nbsp;&nbsp; I'm a graduate of **ITI - Intensive Training Program**. <br>
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **ASP.NET Core, Entity Framework, Angular, React, or anything tech**. <br>
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Find me on: **[LinkedIn](https://www.linkedin.com/in/ahmed-basioni/)** | **[Email](mailto:ahmedbasuony22322@gmail.com)** | **[Phone: +201066408193](tel:+201066408193)**<br>
-- &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: I love combining **creativity with code** to build amazing user experiences.<br>
+ <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="15%" />
 
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I'm specialized in **Full-Stack .NET Development**
+- 💼 &nbsp;&nbsp; I'm a graduate of **ITI - Intensive Training Program**
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **ASP.NET Core, Entity Framework, Angular, React, or anything tech**
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Find me on: **[LinkedIn](https://www.linkedin.com/in/ahmed-basioni/)** | **[Email](mailto:ahmedbasuony22322@gmail.com)** | **[Phone: +201066408193](tel:+201066408193)**
+- &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: I love combining **creativity with code** to build amazing user experiences
+
+<br clear="right"/>
 <hr></hr>
 
 ## 🚀 Featured Projects
