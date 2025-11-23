@@ -86,7 +86,7 @@ Responsive e-commerce platform with **multi-role system** (Customer/Seller/Admin
 
 **Tech Stack:** `HTML5` `CSS3` `JavaScript` `Bootstrap` `Responsive Design`
 
-**Links : &nbsp; &nbsp; &nbsp; ** 
+**Links : &nbsp; &nbsp; &nbsp;** 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-00AAFB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://yoamix.vercel.app/)
 [![Source Code](https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahmedbasioni007/Yaomix-E-Commerce)
 
