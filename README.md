@@ -114,12 +114,6 @@ Comprehensive library management with complete CRUD operations, book reservation
 <hr></hr>
 
 <div align="center" >
-<a  href="https://github.com/ahmedbasioni007">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ahmedbasioni007&show_icons=true&theme=radical&hide_border=true&bg_color=1a1a2e&title_color=ff9900&icon_color=ff9900&text_color=ffffff" width="49%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedbasioni007&layout=compact&theme=radical&hide_border=true&bg_color=1a1a2e&title_color=ff9900&text_color=ffffff" width="49%">
-
-</a>
 
 <details>
   <summary>📊 More GitHub Stats</summary>
@@ -128,6 +122,10 @@ Comprehensive library management with complete CRUD operations, book reservation
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedbasioni007&theme=radical&hide_border=true&background=1a1a2e&ring=ff9900&fire=ff9900&currStreakLabel=ff9900" width="98%">
 
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=ahmedbasioni007&theme=react-dark&hide_border=true&bg_color=1a1a2e&color=ff9900&line=ff9900&point=ffffff" width="98%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ahmedbasioni007&show_icons=true&theme=radical&hide_border=true&bg_color=1a1a2e&title_color=ff9900&icon_color=ff9900&text_color=ffffff" width="49%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedbasioni007&layout=compact&theme=radical&hide_border=true&bg_color=1a1a2e&title_color=ff9900&text_color=ffffff" width="49%">
 
 </details>
 
