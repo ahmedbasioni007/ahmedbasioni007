@@ -8,7 +8,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF9900&center=true&vCenter=true&width=600&lines=Full-Stack+.NET+Developer;Building+Efficient+Solutions;Passionate+About+Clean+Code;Always+Learning+New+Tech" alt="Typing SVG" />
 
 ![Totals Hits](https://komarev.com/ghpvc/?username=ahmedbasioni007&style=flat&color=orange&label=PROFILE+VIEWS)
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fahmedbasioni007&count_bg=%23FF9900&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahmed%20Basioni-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ahmed-basioni/)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail)](mailto:ahmedbasuony22322@gmail.com) <br>
 </div>
@@ -60,7 +59,6 @@ public class AboutMe
 }
 ```
 
--  <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I'm currently learning **Microservices Architecture & Cloud Technologies**. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="15%" /><br>
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I'm specialized in **Full-Stack .NET Development**. <br>
 - 💼 &nbsp;&nbsp; I'm a graduate of **ITI - Intensive Training Program**. <br>
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **ASP.NET Core, Entity Framework, Angular, React, or anything tech**. <br>
