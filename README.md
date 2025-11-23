@@ -119,22 +119,7 @@ Comprehensive library management with complete CRUD operations, book reservation
 
 <hr></hr>
 
-## 🎓 Education & Training
 
-**Information Technology Institute (ITI)**  
-*Intensive Training Program (ITP) - .NET Full Stack Web Development Track*  
-📅 March 2025 – July 2025  
-📍 Cairo, Egypt
-
-Comprehensive training in modern .NET technologies covering:
-- ASP.NET Core MVC & Web API
-- Entity Framework Core & LINQ
-- Angular & React
-- Authentication & Authorization
-- Real-time applications with SignalR
-- Database design & optimization
-
-<hr></hr>
 
 **Development Cycle**<br>
 
@@ -148,60 +133,6 @@ Comprehensive training in modern .NET technologies covering:
 
 <hr></hr>
 
-## 🛠️ Technical Expertise
-
-<table>
-<tr>
-<td valign="top" width="50%">
-
-### Backend Development
-- ASP.NET Core MVC
-- ASP.NET Web API
-- Entity Framework Core
-- C# & LINQ
-- RESTful API Design
-- Authentication & Authorization
-- SignalR for Real-time Apps
-
-</td>
-<td valign="top" width="50%">
-
-### Frontend Development
-- HTML5, CSS3, JavaScript
-- Angular Framework
-- React Library
-- Bootstrap & Responsive Design
-- jQuery & AJAX
-- TypeScript
-
-</td>
-</tr>
-<tr>
-<td valign="top" width="50%">
-
-### Database & ORM
-- SQL Server
-- Entity Framework Core
-- Database Design
-- Query Optimization
-- LINQ Queries
-
-</td>
-<td valign="top" width="50%">
-
-### Additional Technologies
-- JWT Authentication
-- OAuth 2.0 (Google)
-- Twilio SMS Integration
-- SMTP Email Services
-- Git & GitHub
-- Azure Cloud Services
-
-</td>
-</tr>
-</table>
-
-<hr></hr>
 
 ## 📫 Connect With Me
 
