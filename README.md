@@ -108,7 +108,7 @@ Comprehensive library management with complete CRUD operations, book reservation
 **Tech Stack:** `ASP.NET Core MVC` `Entity Framework Core` `SQL Server` `Role-Based Access Control`
 
 **Links:** 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-FF9900?style=for-the-badge&logo=googlechrome&logoColor=white)](https://basioni008.runasp.net/)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-00AAFB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://basioni008.runasp.net/)
 [![Source Code](https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahmedbasioni007/LibraryPro)
 
 <hr></hr>
