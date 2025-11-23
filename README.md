@@ -57,6 +57,23 @@
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
 
 ```csharp
+// tools_I_use organized
+
+public class AboutMe
+{
+    public Dictionary<string, List<string>> MyTools = new()
+    {
+        { "BackendLanguages", new() { "C#", "ASP.NET Core", "ASP.NET MVC", "Entity Framework Core" } },
+        { "FrontendTech", new() { "HTML5", "CSS3", "JavaScript", "Angular", "React", "Bootstrap" } },
+        { "Database", new() { "SQL Server", "Entity Framework", "LINQ" } },
+        { "Authentication", new() { "JWT", "OAuth 2.0", "Identity Framework", "Two-Factor Auth" } },
+        { "RealTime", new() { "SignalR", "WebSockets", "jQuery AJAX" } },
+        { "Tools", new() { "Git", "GitHub", "Visual Studio", "VS Code", "Postman" } },
+        { "Cloud", new() { "Azure", "Azure App Service", "Azure SQL" } },
+        { "APIs", new() { "RESTful APIs", "Twilio SMS", "Google OAuth", "SMTP Email" } }
+    };
+}
+```
 
 -  <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I'm currently learning **Microservices Architecture & Cloud Technologies**. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="15%" /><br>
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I'm specialized in **Full-Stack .NET Development**. <br>
