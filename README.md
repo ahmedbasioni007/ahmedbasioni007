@@ -165,7 +165,7 @@ Comprehensive library management with complete CRUD operations, book reservation
 
 ### 💡 "Building efficient, reliable solutions with passion and precision"
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00AAFB,100:0078D4&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=ffffff&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00AAFB,100:0078D4&height=180&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=ffffff&animation=twinkling" width="100%"/>
 
 ⭐ **Don't forget to star my repositories if you find them useful!** ⭐
 
