@@ -1,102 +1,229 @@
 <div align="center" width="50">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Hello Coders" width="60%"/> <br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Workspace"  width="40%"/><br> 
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Developers" width="60%"/> <br>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace"  width="40%"/><br>
 
-<details>
-<p><strong> <summary>  Busy coding & Vibing to :   </summary> </strong></p>
+# 👋 Hi, I'm Ahmed Basioni EL-Khateeb
 
-[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul) <be>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF9900&center=true&vCenter=true&width=600&lines=Full-Stack+.NET+Developer;Building+Efficient+Solutions;Passionate+About+Clean+Code;Always+Learning+New+Tech" alt="Typing SVG" />
 
-</details>
-
-![Totals Hits](https://komarev.com/ghpvc/?username=SP-XD&style=flat&color=orange&label=PROFILE+VIEWS)
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSP-XD&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
-[![telegram badge](https://img.shields.io/badge/SP-XD-grey?style=flat&logo=telegram)](https://t.me/spxd007) <br>
+![Totals Hits](https://komarev.com/ghpvc/?username=ahmedbasioni007&style=flat&color=orange&label=PROFILE+VIEWS)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fahmedbasioni007&count_bg=%23FF9900&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahmed%20Basioni-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ahmed-basioni/)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail)](mailto:ahmedbasuony22322@gmail.com) <br>
 </div>
 
 <hr></hr>
 
 ![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange)
 ![semicolon](https://img.shields.io/badge/-%3A-orange)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
-![Javascript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
-![Json](https://img.shields.io/badge/json-5E5C5C?style=flat&logo=json&logoColor=white)
-![Html](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![Css](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=flat&logo=GNU%20Bash&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
-![GNU/Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
-![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=flat&logo=sublime-text&logoColor=important)
-![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=flat&logo=neovim&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-ffca28?style=flat&logo=firebase&logoColor=black)
-![Sqlite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=Adobe%20Photoshop&logoColor=black)
-![Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=flat&logo=Adobe%20Lightroom&logoColor=white)
-![Gimp](https://img.shields.io/badge/gimp-5C5543?style=flat&logo=gimp&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white)
-![Chakra-UI](https://img.shields.io/badge/Chakra--UI-319795?style=flat&logo=chakra-ui&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=flat&logo=dotnet&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
+![SignalR](https://img.shields.io/badge/SignalR-512BD4?style=flat&logo=dotnet&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=json-web-tokens&logoColor=white)
+![OAuth](https://img.shields.io/badge/OAuth_2.0-EB5424?style=flat&logo=auth0&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![LINQ](https://img.shields.io/badge/LINQ-512BD4?style=flat&logo=dotnet&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
 
-```dart
+```csharp
 // tools_I_use organized
 
-class About extends Me { 
-  const myTools = {  
-    "ProgramingLanguages" : { "Dart", "Go", "Python", "Javascript", "Java", "c++" },
-    "OtherLanguages" : { "HTML", "CSS", "Bash", "Json", "Markdown" },
-    "Database" : { "Firebase", "Sqlite", "PostgreSql" },
-    "Editors" : { "Vscode", "Xcode", "Sublime", "Neovim" },
-    "Platforms" : { "Mac", "GNU/Linux", "Windows" },
-    "OtherTools" : { "Git", "Figma", "Photoshop", "Gimp", "Lightroom" }
-  };
+public class AboutMe
+{
+    public Dictionary<string, List<string>> MyTools = new()
+    {
+        { "BackendLanguages", new() { "C#", "ASP.NET Core", "ASP.NET MVC", "Entity Framework Core" } },
+        { "FrontendTech", new() { "HTML5", "CSS3", "JavaScript", "Angular", "React", "Bootstrap" } },
+        { "Database", new() { "SQL Server", "Entity Framework", "LINQ" } },
+        { "Authentication", new() { "JWT", "OAuth 2.0", "Identity Framework", "Two-Factor Auth" } },
+        { "RealTime", new() { "SignalR", "WebSockets", "jQuery AJAX" } },
+        { "Tools", new() { "Git", "GitHub", "Visual Studio", "VS Code", "Postman" } },
+        { "Cloud", new() { "Azure", "Azure App Service", "Azure SQL" } },
+        { "APIs", new() { "RESTful APIs", "Twilio SMS", "Google OAuth", "SMTP Email" } }
+    };
 }
 ```
 
--  <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently learning **Frappe**. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I like exploring **GNU/Linux**. <br>
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **Pc building, Movies, or anything**. <br>
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Find me on Telegram: **[丂𝙋⚡乂𝘿](https://t.me/spxd007)**<br>
-- &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: Banging your head against a wall for one hour burns **150 calories**.<br>
+-  <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I'm currently learning **Microservices Architecture & Cloud Technologies**. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="15%" /><br>
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I'm specialized in **Full-Stack .NET Development**. <br>
+- 💼 &nbsp;&nbsp; I'm a graduate of **ITI - Intensive Training Program**. <br>
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **ASP.NET Core, Entity Framework, Angular, React, or anything tech**. <br>
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Find me on: **[LinkedIn](https://www.linkedin.com/in/ahmed-basioni/)** | **[Email](mailto:ahmedbasuony22322@gmail.com)** | **[Phone: +201066408193](tel:+201066408193)**<br>
+- &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: I love combining **creativity with code** to build amazing user experiences.<br>
+
+<hr></hr>
+
+## 🚀 Featured Projects
+
+### 🛒 [Amazon Clone - E-Commerce Platform](https://ahmedbasioni.runasp.net/)
+Full-featured e-commerce platform with **AI-powered recommendations**, **Google OAuth 2.0**, **Two-factor authentication** (SMS & Email), and **real-time notifications** using SignalR.
+
+**Tech Stack:** `ASP.NET MVC` `Entity Framework` `Identity` `OAuth 2.0` `Twilio SMS` `SignalR` `AI Integration` `jQuery AJAX`
+
+---
+
+### 🏪 [Yaomix E-Commerce](https://yoamix.vercel.app/)
+Responsive e-commerce platform with **multi-role system** (Customer/Seller/Admin), product management, order tracking, and sales analytics.
+
+**Tech Stack:** `HTML5` `CSS3` `JavaScript` `Bootstrap` `Responsive Design`
+
+---
+
+### 📝 [Examination System](https://github.com/ahmedbasioni007/exam-system-Angular-APi-)
+Secure online examination platform with **JWT authentication**, dynamic exam creation, automated grading, and detailed analytics.
+
+**Tech Stack:** `ASP.NET Web API` `Angular` `Entity Framework Core` `SQL Server` `JWT Authentication`
+
+---
+
+### 📚 [LibraryPro Management System](https://basioni008.runasp.net/)
+Comprehensive library management with complete CRUD operations, book reservations, automated late fees, and admin dashboard.
+
+**Tech Stack:** `ASP.NET Core MVC` `Entity Framework Core` `SQL Server` `Role-Based Access Control`
+
+<hr></hr>
 
 <div align="center" >
-<a  href="https://github.com/SP-XD">
+<a  href="https://github.com/ahmedbasioni007">
 
-<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
+<img src="https://github-readme-stats.vercel.app/api?username=ahmedbasioni007&show_icons=true&theme=radical&hide_border=true&bg_color=1a1a2e&title_color=ff9900&icon_color=ff9900&text_color=ffffff" width="49%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedbasioni007&layout=compact&theme=radical&hide_border=true&bg_color=1a1a2e&title_color=ff9900&text_color=ffffff" width="49%">
 
 </a>
 
 <details>
-  <summary>More stats</summary>
+  <summary>📊 More GitHub Stats</summary>
+  <br>
   
-<img align="center" src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg" >
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedbasioni007&theme=radical&hide_border=true&background=1a1a2e&ring=ff9900&fire=ff9900&currStreakLabel=ff9900" width="98%">
+
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=ahmedbasioni007&theme=react-dark&hide_border=true&bg_color=1a1a2e&color=ff9900&line=ff9900&point=ffffff" width="98%">
 
 </details>
-  
+
 <hr></hr>
 
-**Code Cycle**<br>
+## 🎓 Education & Training
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Broken system!"/>
+**Information Technology Institute (ITI)**  
+*Intensive Training Program (ITP) - .NET Full Stack Web Development Track*  
+📅 March 2025 – July 2025  
+📍 Cairo, Egypt
+
+Comprehensive training in modern .NET technologies covering:
+- ASP.NET Core MVC & Web API
+- Entity Framework Core & LINQ
+- Angular & React
+- Authentication & Authorization
+- Real-time applications with SignalR
+- Database design & optimization
+
+<hr></hr>
+
+**Development Cycle**<br>
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Debugging!"/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="It's working!"/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!"/><br>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It works but how?!"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Clapping%20Hands.png" width="10%" alt="Deployed successfully!"/><br>
 
+<hr></hr>
 
-<!--img src="https://github.com/SP-XD/SP-XD/blob/main/images/this_page_is.gif?raw=true"  width="40%"/-->
+## 🛠️ Technical Expertise
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+### Backend Development
+- ASP.NET Core MVC
+- ASP.NET Web API
+- Entity Framework Core
+- C# & LINQ
+- RESTful API Design
+- Authentication & Authorization
+- SignalR for Real-time Apps
+
+</td>
+<td valign="top" width="50%">
+
+### Frontend Development
+- HTML5, CSS3, JavaScript
+- Angular Framework
+- React Library
+- Bootstrap & Responsive Design
+- jQuery & AJAX
+- TypeScript
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
+
+### Database & ORM
+- SQL Server
+- Entity Framework Core
+- Database Design
+- Query Optimization
+- LINQ Queries
+
+</td>
+<td valign="top" width="50%">
+
+### Additional Technologies
+- JWT Authentication
+- OAuth 2.0 (Google)
+- Twilio SMS Integration
+- SMTP Email Services
+- Git & GitHub
+- Azure Cloud Services
+
+</td>
+</tr>
+</table>
+
+<hr></hr>
+
+## 📫 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-basioni/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahmedbasioni007)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmedbasuony22322@gmail.com)
+[![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+201066408193)
 
 </div>
 
+<hr></hr>
+
+<div align="center">
+
+### 💡 "Building efficient, reliable solutions with passion and precision"
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,20&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=ffffff&animation=twinkling" width="100%"/>
+
+⭐ **Don't forget to star my repositories if you find them useful!** ⭐
+
+*Made with ❤️ by Ahmed Basioni | 2025*
+
+</div>
