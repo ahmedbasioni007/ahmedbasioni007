@@ -8,6 +8,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF9900&center=true&vCenter=true&width=600&lines=Full-Stack+.NET+Developer;Building+Efficient+Solutions;Passionate+About+Clean+Code;Always+Learning+New+Tech" alt="Typing SVG" />
 
 ![Totals Hits](https://komarev.com/ghpvc/?username=ahmedbasioni007&style=flat&color=orange&label=PROFILE+VIEWS)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fahmedbasioni007&count_bg=%23FF9900&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahmed%20Basioni-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ahmed-basioni/)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail)](mailto:ahmedbasuony22322@gmail.com) <br>
 </div>
@@ -59,6 +60,7 @@ public class AboutMe
 }
 ```
 
+-  <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I'm currently learning **Microservices Architecture & Cloud Technologies**. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="15%" /><br>
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I'm specialized in **Full-Stack .NET Development**. <br>
 - 💼 &nbsp;&nbsp; I'm a graduate of **ITI - Intensive Training Program**. <br>
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **ASP.NET Core, Entity Framework, Angular, React, or anything tech**. <br>
@@ -69,31 +71,46 @@ public class AboutMe
 
 ## 🚀 Featured Projects
 
-### 🛒 [Amazon Clone - E-Commerce Platform](https://ahmedbasioni.runasp.net/)
+### 🛒 Amazon Clone - E-Commerce Platform
 Full-featured e-commerce platform with **AI-powered recommendations**, **Google OAuth 2.0**, **Two-factor authentication** (SMS & Email), and **real-time notifications** using SignalR.
 
 **Tech Stack:** `ASP.NET MVC` `Entity Framework` `Identity` `OAuth 2.0` `Twilio SMS` `SignalR` `AI Integration` `jQuery AJAX`
 
+**Links:** 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-FF9900?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ahmedbasioni.runasp.net/)
+[![Source Code](https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahmedbasioni007/Amazon-clone)
+
 ---
 
-### 🏪 [Yaomix E-Commerce](https://yoamix.vercel.app/)
+### 🏪 Yaomix E-Commerce
 Responsive e-commerce platform with **multi-role system** (Customer/Seller/Admin), product management, order tracking, and sales analytics.
 
 **Tech Stack:** `HTML5` `CSS3` `JavaScript` `Bootstrap` `Responsive Design`
 
+**Links:** 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-FF9900?style=for-the-badge&logo=googlechrome&logoColor=white)](https://yoamix.vercel.app/)
+[![Source Code](https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahmedbasioni007/Yaomix-E-Commerce)
+
 ---
 
-### 📝 [Examination System](https://github.com/ahmedbasioni007/exam-system-Angular-APi-)
+### 📝 Examination System
 Secure online examination platform with **JWT authentication**, dynamic exam creation, automated grading, and detailed analytics.
 
 **Tech Stack:** `ASP.NET Web API` `Angular` `Entity Framework Core` `SQL Server` `JWT Authentication`
 
+**Links:** 
+[![Source Code](https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahmedbasioni007/exam-system-Angular-APi-)
+
 ---
 
-### 📚 [LibraryPro Management System](https://basioni008.runasp.net/)
+### 📚 LibraryPro Management System
 Comprehensive library management with complete CRUD operations, book reservations, automated late fees, and admin dashboard.
 
 **Tech Stack:** `ASP.NET Core MVC` `Entity Framework Core` `SQL Server` `Role-Based Access Control`
+
+**Links:** 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-FF9900?style=for-the-badge&logo=googlechrome&logoColor=white)](https://basioni008.runasp.net/)
+[![Source Code](https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahmedbasioni007/LibraryPro)
 
 <hr></hr>
 
@@ -117,7 +134,22 @@ Comprehensive library management with complete CRUD operations, book reservation
 
 <hr></hr>
 
+## 🎓 Education & Training
 
+**Information Technology Institute (ITI)**  
+*Intensive Training Program (ITP) - .NET Full Stack Web Development Track*  
+📅 March 2025 – July 2025  
+📍 Cairo, Egypt
+
+Comprehensive training in modern .NET technologies covering:
+- ASP.NET Core MVC & Web API
+- Entity Framework Core & LINQ
+- Angular & React
+- Authentication & Authorization
+- Real-time applications with SignalR
+- Database design & optimization
+
+<hr></hr>
 
 **Development Cycle**<br>
 
@@ -131,6 +163,60 @@ Comprehensive library management with complete CRUD operations, book reservation
 
 <hr></hr>
 
+## 🛠️ Technical Expertise
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+### Backend Development
+- ASP.NET Core MVC
+- ASP.NET Web API
+- Entity Framework Core
+- C# & LINQ
+- RESTful API Design
+- Authentication & Authorization
+- SignalR for Real-time Apps
+
+</td>
+<td valign="top" width="50%">
+
+### Frontend Development
+- HTML5, CSS3, JavaScript
+- Angular Framework
+- React Library
+- Bootstrap & Responsive Design
+- jQuery & AJAX
+- TypeScript
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
+
+### Database & ORM
+- SQL Server
+- Entity Framework Core
+- Database Design
+- Query Optimization
+- LINQ Queries
+
+</td>
+<td valign="top" width="50%">
+
+### Additional Technologies
+- JWT Authentication
+- OAuth 2.0 (Google)
+- Twilio SMS Integration
+- SMTP Email Services
+- Git & GitHub
+- Azure Cloud Services
+
+</td>
+</tr>
+</table>
+
+<hr></hr>
 
 ## 📫 Connect With Me
 
